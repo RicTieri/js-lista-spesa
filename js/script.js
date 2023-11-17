@@ -1,10 +1,11 @@
 const objectList = [
-  'ferro da stiro',
-  'appendi abiti',
+  'punte diamantate',
   'avvitatore',
+  'saldatore a stagno',
   'viti',
   'tasselli da muro',
   'stucco',
+  'barattoli per conserve',
 ]
 
 let i=0;

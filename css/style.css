@@ -11,3 +11,23 @@
   align-items: center;
   justify-content: center;
 }
+
+.card{
+  border-radius: 20px;
+  padding: 2rem 1.5rem;
+  background-color: gainsboro;
+  box-shadow: 0 0 30px 5px gray;
+}
+
+h1{
+  text-align: center;
+}
+
+ul{
+  list-style: none;
+  padding: 2rem;
+}
+
+li{
+  margin-bottom: .5rem;
+}
